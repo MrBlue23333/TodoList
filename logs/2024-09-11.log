@@ -1,0 +1,4 @@
+time="2024-09-11 23:22:16" level=error msg="username or password error"
+time="2024-09-11 23:58:31" level=info msg="invalid character 'u' looking for beginning of value"
+time="2024-09-12 00:01:30" level=info msg="invalid character 'u' looking for beginning of value"
+time="2024-09-12 00:02:12" level=error msg="username or password error"
